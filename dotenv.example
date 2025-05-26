@@ -1,0 +1,6 @@
+DATABASE_CONNECTION_URL=sqlite:///cats.sqlite3
+ALLOWED_ORIGINS="*"
+# Replace this with any server adapter supported by bottle, e.g. bjoern
+SERVER_ADAPTER="wsgiref"
+SERVER_PORT=8080
+SERVER_HOST=127.0.0.1
