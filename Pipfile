@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 wsgi-request-logger = "*"
 bjoern = "*"
+pypette-web = "==0.0.2"
 
 [dev-packages]
 webtest = "*"

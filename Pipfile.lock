@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "dcc22290b03a0ff6729309d7763ea34ac8f3fedb9023c58ab1c073aa428d20a7"
+            "sha256": "cff7e0338bc186c8c6b07a2a5c37df2a418bbc4482cc7bdb5d1353e6b0783d84"
         },
         "pipfile-spec": 6,
         "requires": {},
@@ -23,11 +23,11 @@
         },
         "pypette-web": {
             "hashes": [
-                "sha256:7ca9bafbb1c7246ae44439ad715a883150e1b9775549da2f0bfab1b72262d65d",
-                "sha256:8cc4bed84f19a145ee04798ea2accbd1b9382e5db2bc560f77dba68a5b08a385"
+                "sha256:5ba2991ccb1244ee8def1f10eca9c2805942d6e868bab8a685ade06f78b5e4e9",
+                "sha256:f8ae3e1beb27242846ac2b7a5791f9dfa243d28e268bdc24a34ac0a7031e4375"
             ],
             "index": "pypi",
-            "version": "==0.0.1"
+            "version": "==0.0.2"
         },
         "wsgi-request-logger": {
             "hashes": [
